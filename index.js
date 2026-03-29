@@ -18,3 +18,6 @@ console.log(addToCartPage)
 
 let addtoCartLogic = "I am adding addToCart Logic";
 console.log(addtoCartLogic)
+
+let footer = "I am adding footer";
+console.log(footer)

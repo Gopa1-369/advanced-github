@@ -12,3 +12,6 @@ console.log(payementCard);
 
 let payementupi = "I am addingUpiPayment";
 console.log(payementupi)
+
+let addToCartPage = "I am adding addToCart Page";
+console.log(addToCartPage)

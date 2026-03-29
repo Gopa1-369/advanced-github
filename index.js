@@ -21,3 +21,9 @@ console.log(addtoCartLogic)
 
 let footer = "I am adding footer";
 console.log(footer)
+
+let companyBasicInfo = "I am adding companyBasicInfo"
+console.log(companyBasicInfo)
+
+
+

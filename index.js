@@ -22,5 +22,7 @@ console.log(addtoCartLogic)
 let companyBasicInfo = "I am adding companyBasicInfo"
 console.log(companyBasicInfo)
 
+let companyEmployeeInfo = "I am adding companyEmployeeInfo"
+console.log(companyEmployeeInfo)
 
 

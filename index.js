@@ -25,4 +25,6 @@ console.log(companyBasicInfo)
 let companyEmployeeInfo = "I am adding companyEmployeeInfo"
 console.log(companyEmployeeInfo)
 
+let comapanyWorkingInfo = "I am adding companyWorkingInfo";
+console.log(comapanyWorkingInfo)
 

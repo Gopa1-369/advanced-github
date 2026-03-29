@@ -18,3 +18,9 @@ console.log(addToCartPage)
 
 let addtoCartLogic = "I am adding addToCart Logic";
 console.log(addtoCartLogic)
+
+let companyBasicInfo = "I am adding companyBasicInfo"
+console.log(companyBasicInfo)
+
+
+

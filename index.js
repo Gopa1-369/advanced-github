@@ -3,3 +3,6 @@ console.log(button);
 
 let login = "I am adding Login";
 console.log(login)
+
+let register = "I am adding register";
+console.log(register);
